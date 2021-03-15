@@ -1,10 +1,10 @@
 .customheading{
     font-family: "Arial Black", sans-serif;
-   font-size: 4em;
+   font-size: 4.5em;
    letter-spacing: -1px;
    background-color: black;
    color: white;
-   padding: 2rem;
+   padding: 3rem;
 }
 
 
@@ -29,7 +29,7 @@ span{
 	display: flex;
 	justify-content: center;
 	align-items: flex-start;
-	font-size:medium;
+	font-size: medium;
 }
 .letter{
 	display: inline-flex;
@@ -63,11 +63,14 @@ body {
 	padding: 30px;
 	margin: 0 auto;
 	position: relative;
-	top: 12%;
+	top: 15%;
 	font-size: 14px;
 	line-height: 1.2;
 	transform: translateY(-50%);
 	perspective: 400px;
+}
+.split{
+	font-size: 14px;
 }
 
 .source {
